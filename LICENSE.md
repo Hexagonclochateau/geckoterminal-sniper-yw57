@@ -1,4 +1,4 @@
-# 
+# instant geckoterminal sniper bot | pump-detection + token-launch-monitoring offers the most advanced geckoterminal sniper bot, with pump-detection and token-launch-monitoring.
 
 
 
